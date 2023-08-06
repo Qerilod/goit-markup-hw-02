@@ -7,8 +7,8 @@ body {
 
 .logo {
   font-family: "Raleway", sans-serif;
-  font-weight: 700;
   font-size: 18px;
+  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.3em;
   text-transform: uppercase;
@@ -19,9 +19,9 @@ body {
   color: #2e2f42;
 }
 
-.navcon {
-  font-weight: 500;
+.nav-con {
   font-size: 16px;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.2em;
   color: #2e2f42;
