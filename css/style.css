@@ -1,4 +1,4 @@
-.body {
+.body-con {
   font-family: "Roboto " sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -19,16 +19,16 @@
 }
 
 .navigation-con {
-  color: #2e2f42;
-  font-size: 16px;
   font-weight: 500;
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
-.navigation-con .link:hover {
+.navigation-con.link:hover {
   color: #404bbf;
 }
-.navigation-con .link:focus {
+.navigation-con.link:focus {
   color: #404bbf;
 }
 .address-con {
@@ -40,10 +40,10 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.contact-con .link:hover {
+.contact-con.link:hover {
   color: #404bbf;
 }
-.contact-con .link:focus {
+.contact-con.link:focus {
   color: #404bbf;
 }
 
