@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -7,12 +7,12 @@
 
 .logo {
   font-family: "Raleway", sans-serif;
-  font-weight: "700";
-  font-size: "18px";
-  line-height: "1.17";
-  letter-spacing: "0,03em";
-  text-transform: "uppercase";
-  color: "#4d5ae5";
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0, 03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .span-first {
   color: #2e2f42;
@@ -21,7 +21,7 @@
 .navigation-con {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0, 02em;
   color: #2e2f42;
 }
