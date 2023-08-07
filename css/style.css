@@ -19,6 +19,16 @@ body {
   color: #2e2f42;
 }
 
+.decoration {
+  list-style: none;
+}
+
+.logo,
+.panel,
+.contact-con {
+  text-decoration: none;
+}
+
 .panel {
   font-size: 16px;
   font-weight: 500;
