@@ -24,9 +24,9 @@ body {
 }
 
 .logo,
-.logo-two,
 .panel,
-.contact-con {
+.contact-con,
+.logo-two {
   text-decoration: none;
 }
 
